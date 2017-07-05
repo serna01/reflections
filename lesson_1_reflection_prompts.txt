@@ -1,0 +1,43 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+
+    Totally because it is an automated process so you do not have to go through all the code to look for really difficult things to see such as typos
+
+How could having easy access to the entire history of a file make you a more 
+efficient programmer in the long term?
+
+
+    I think it would help a lot to be aware of changes and constantly compare and manage those changes with previous or future code
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+
+    Large changes are very difficult to track down completely, so logical changes seem to be just right to make a commit, and manually, you just know or kind of know what is the change about, you have control of it, but automatically you just do not remember when was the last time it was saved, why and where were you working
+ 
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+
+    because when coding, multiple files could be related so it is good to keep track of changes in every file at the same time when a commit is made 
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+
+    whenever i need to see what was going on back in al older code, maybe something was working and then it do not work
+
+How might using version control make you more confident to make changes that
+could break something?
+
+
+    you can easily spot the bug so your confidence to make changes would be greatly increased
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+
+    Fill in your answer here
+What happens when you initialize a repository? Why do you need to do it?
+you create a git repository where files can be added so history is tracked
+i need it to start tracking the history of files according to the commits
