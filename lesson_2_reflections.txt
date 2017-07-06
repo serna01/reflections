@@ -5,3 +5,5 @@ How can you use the staging area to make sure you have one commit per logical ch
 by ensuring all the files are in the staging area before commiting them
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 for example when a new feature is being under study or a new idea, but it is not mature enough to be out in the production code
+How do the diagrams help you visualize the branch structure?
+it helps me get things organized by visually showing how is the structure of the brnches
