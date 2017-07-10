@@ -7,3 +7,5 @@ What are some situations when branches would be helpful in keeping your history 
 for example when a new feature is being under study or a new idea, but it is not mature enough to be out in the production code
 How do the diagrams help you visualize the branch structure?
 it helps me get things organized by visually showing how is the structure of the brnches
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+it is a combination of the preceeding file of the branch, the current branch and the merging branch, and it is represented in a diagram so it is easier and simpler to understand
