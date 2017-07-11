@@ -9,3 +9,6 @@ How do the diagrams help you visualize the branch structure?
 it helps me get things organized by visually showing how is the structure of the brnches
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 it is a combination of the preceeding file of the branch, the current branch and the merging branch, and it is represented in a diagram so it is easier and simpler to understand
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+doing it manulally you have a lot more control over the changes and it different branches diverge on the code , it can be resolved easily by talking to the other person who's working on the same projet
+or understanding the changes that have been made to the file
