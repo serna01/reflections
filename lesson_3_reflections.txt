@@ -4,3 +4,7 @@ or when i am working on another computer where i do not have access to my local 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 because it is safer to have the control of which files go public or are being shared to the internet, meanwhile the downside of it is that if you are 
 working on another computer and forget to push your work it could get lost
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+fork is to kind of copy a repo but i cannot push to the original repor because i have no permission
+clone is a copy of all the history of the repository to have it available on my local pc
+branches are divergences on the code to experiment new features or add new components that are still in development or just of for fun
