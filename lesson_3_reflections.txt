@@ -9,4 +9,6 @@ fork is to kind of copy a repo but i cannot push to the original repor because i
 clone is a copy of all the history of the repository to have it available on my local pc
 branches are divergences on the code to experiment new features or add new components that are still in development or just of for fun
 What is the benefit of having a copy of the last known state of the remote stored locally?
-that you can work off line, and the catch to whatever changes you might think are necessary and have the possibility to compare it to the github version
+that you can work off line, and the catch to whatever changes you might think are necessary and have the possibility to compare it to the github version.
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+i think in the beggining it would be easier because you just collaborate by sending the files, but as one gets better at working with github it definitely is and advantage because one can see any change, make comentaries, etc
